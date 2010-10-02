@@ -7,10 +7,7 @@
 #include <errno.h>
 #include <assert.h>
 
-#include "loading.h"
-#include "filtration.h"
-#include "vector.h"
-#include "gpicker_xmalloc.h"
+#include "gpicker.h"
 
 static
 char *pattern;

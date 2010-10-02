@@ -45,12 +45,8 @@
 
 #endif
 
-#include "gpicker_xmalloc.h"
-#include "filtration.h"
-#include "vector.h"
+#include "gpicker.h"
 #include "timing.h"
-#include "inline_qsort.h"
-#include "loading.h"
 #include "do_with_main_loop.h"
 
 static GtkWindow *top_window;
