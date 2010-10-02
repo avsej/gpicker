@@ -1,5 +1,5 @@
-#ifndef XMALLOC_H
-#define XMALLOC_H
+#ifndef GPICKER_XMALLOC_H
+#define GPICKER_XMALLOC_H
 #include <sys/types.h>
 
 __attribute__((noreturn))
